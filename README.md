@@ -10,7 +10,7 @@ Welcome to my internship documentation. This README file outlines my daily perfo
 - **Internship Title**: Node.JS Developer
 - **Company Name**: AigetAi
 - **Duration**: 19/05/2025 – 19/07/2025
-- **Location**: To-Do
+
 
 
 ---
