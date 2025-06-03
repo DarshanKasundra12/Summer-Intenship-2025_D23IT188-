@@ -26,12 +26,23 @@ Here are the technologies and tools I have used during the internship:
 
 ## 📅 Daily Work Log
 
-| Date       | Task Description                                                                 | Status       | Tech Stack Used                  |
-|------------|----------------------------------------------------------------------------------|--------------|----------------------------------|
-| 2025-05-19 | Join Company and show what project are made                                     | ✅ Completed  | -                                |
-| 2025-05-20 | Research On socket.io                                                           | ✅ Completed  | Scocket.io             |
-| 2025-05-21 | Analysis Project Code                                                           | ✅ Completed  | Node.js                           |
-| 2025-05-22 | 
+Date        | Task Description                                 | Status        | Tech Stack Used
+------------|--------------------------------------------------|---------------|------------------
+2025-05-19  | Joined company and showcased previous projects   | ✅ Completed  | -
+2025-05-20  | Researched on socket.io                         | ✅ Completed  | Socket.io
+2025-05-21  | Analyzed existing project code                   | ✅ Completed  | Node.js
+2025-05-22  | Understood backend architecture and flow         | ✅ Completed  | Node.js
+2025-05-23  | Explored admin-related code and database schema  | ✅ Completed  | Node.js, MongoDB
+2025-05-24  | Reviewed question handling logic in backend      | ✅ Completed  | Node.js, MongoDB
+2025-05-25  | Set up backend environment locally               | ✅ Completed  | Node.js, MongoDB
+2025-05-26  | Worked on admin-side: fetch questions            | ✅ Completed  | Node.js, Express.js, MongoDB
+2025-05-27  | Started CRUD operation development for questions | ✅ Completed  | Node.js, Express.js, MongoDB
+2025-05-28  | Implemented “Create Question” functionality      | ✅ Completed  | Node.js, Express.js, MongoDB
+2025-05-29  | Tested and debugged create API in Postman        | ✅ Completed  | Node.js, Postman
+2025-05-30  | Implemented validation and error handling        | ✅ Completed  | Node.js, Express.js
+2025-05-31  | Improved code structure for question routes      | ✅ Completed  | Node.js, Express.js
+2025-06-01  | Finalized logic for update and delete APIs       | ✅ Completed  | Node.js, Express.js
+2025-06-02  | Successfully completed and tested update/delete  | ✅ Completed  | Node.js, Express.js, Postman
 
 *Continue updating this table as your internship progresses.*
 
