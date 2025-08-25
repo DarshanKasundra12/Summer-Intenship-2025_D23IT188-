@@ -94,18 +94,28 @@ Date        | Task Description                                        | Status  
 
 ---
 
-## ✨ Achievements & Learnings
+✨ Achievements & Learnings
 
 Learned how to work with real-world codebases and collaborative workflows.
+
 Improved understanding of backend development (Node.js, Express.js, MongoDB).
+
 Gained experience in version control using Git and GitHub.
+
 Implemented CRUD operations for different modules (Questions, Bets, Promotions, Tickets).
+
 Learned to design and optimize MongoDB schemas for scalability.
+
 Improved skills in API development, validation, and error handling.
+
 Got hands-on practice with Postman for testing and debugging APIs.
-Explored real-time communication using Socket.IO for support ticket system.
+
+Explored real-time communication using Socket.IO for the support ticket system.
+
 Worked with cron jobs and automation for SportsDev sports data fetching.
+
 Learned how to integrate third-party APIs (SportsDev) and store data efficiently.
+
 Enhanced debugging and problem-solving skills through live project challenges.
 
 
