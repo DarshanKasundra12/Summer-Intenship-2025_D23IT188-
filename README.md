@@ -19,7 +19,7 @@ Welcome to my internship documentation. This README file outlines my daily perfo
 
 Here are the technologies and tools I have used during the internship:
 
-- **Backend**: Node.js, Express.js,Postman
+- **Backend**: Node.js, Express.js,Postman,Socket.Io
 
 
 ---
@@ -71,17 +71,42 @@ Date        | Task Description                                        | Status  
 2025-06-28  | Improved Socket.IO error handling for tickets           | ✅ Completed  | Node.js, Socket.IO
 2025-06-29  | Optimized Socket.IO connections for tickets             | ✅ Completed  | Node.js, Socket.IO
 2025-06-30  | Completed Support Ticket module with Socket.IO          | ✅ Completed  | Node.js, Socket.IO, MongoDB
+2025-07-01  | Started SportsDev integration: researched APIs                 | ✅ Completed  | Node.js, Axios
+2025-07-02  | Connected to SportsDev API and fetched initial sports data     | ✅ Completed  | Node.js, Axios
+2025-07-03  | Designed schema for storing sports data in MongoDB             | ✅ Completed  | Node.js, Mongoose
+2025-07-04  | Implemented data fetch and save to DB logic                    | ✅ Completed  | Node.js, MongoDB
+2025-07-05  | Automated daily sports data fetching                           | ✅ Completed  | Node.js, Cron Jobs
+2025-07-06  | Tested API data insertion in Postman                           | ✅ Completed  | Node.js, Postman
+2025-07-07  | Implemented update logic for existing sports data              | ✅ Completed  | Node.js, MongoDB
+2025-07-08  | Handled duplicate entries and data consistency checks          | ✅ Completed  | Node.js, MongoDB
+2025-07-09  | Added filtering & query APIs for sports list                   | ✅ Completed  | Node.js, Express.js, MongoDB
+2025-07-10  | Tested filtering and query APIs in Postman                     | ✅ Completed  | Node.js, Postman
+2025-07-11  | Enhanced API performance with indexing                        | ✅ Completed  | Node.js, MongoDB
+2025-07-12  | Implemented pagination for sports list API                     | ✅ Completed  | Node.js, Express.js
+2025-07-13  | Logged API errors and added retry mechanism for fetch          | ✅ Completed  | Node.js
+2025-07-14  | Added endpoint to fetch sports by category/league              | ✅ Completed  | Node.js, Express.js
+2025-07-15  | Implemented background sync service for live updates           | ✅ Completed  | Node.js, Cron Jobs
+2025-07-16  | Debugged and fixed data mismatch issues in DB                  | ✅ Completed  | Node.js, MongoDB
+2025-07-17  | Finalized all SportsDev sports APIs                            | ✅ Completed  | Node.js, Express.js, MongoDB
+2025-07-18  | Performed end-to-end testing of SportsDev module               | ✅ Completed  | Node.js, Postman
+2025-07-19  | Completed SportsDev integration and documented module usage    | ✅ Completed  | Node.js, MongoDB, Axios
 
-
-*Continue updating this table as your internship progresses.*
 
 ---
 
 ## ✨ Achievements & Learnings
 
-- Learned how to work with real-world codebases and collaborative workflows.
-- Improved understanding of Backend.
-- Gained experience in version control using Git and GitHub.
+Learned how to work with real-world codebases and collaborative workflows.
+Improved understanding of backend development (Node.js, Express.js, MongoDB).
+Gained experience in version control using Git and GitHub.
+Implemented CRUD operations for different modules (Questions, Bets, Promotions, Tickets).
+Learned to design and optimize MongoDB schemas for scalability.
+Improved skills in API development, validation, and error handling.
+Got hands-on practice with Postman for testing and debugging APIs.
+Explored real-time communication using Socket.IO for support ticket system.
+Worked with cron jobs and automation for SportsDev sports data fetching.
+Learned how to integrate third-party APIs (SportsDev) and store data efficiently.
+Enhanced debugging and problem-solving skills through live project challenges.
 
 
 ---
@@ -90,13 +115,6 @@ Date        | Task Description                                        | Status  
 
 - Communication with the mentor helped solve blockers quickly.
 - Daily standups improved productivity and goal alignment.
-
----
-
-## 📢 Final Remarks (to be filled at the end of internship)
-
-- **Overall Experience**: [e.g., "The internship gave me hands-on experience and helped me grow as a backend developer."]
-- **Suggestions**: [Optional suggestions for company or future interns.]
 
 ---
 
